@@ -34,7 +34,7 @@
 
 ## 🧐 About <a name = "about"></a>
 
-Write about 1-2 paragraphs describing the purpose of your project.
+Write about 1-2 paragraphs describing the purpose of your project. I am analyzing fitness data.
 
 ## 🏁 Getting Started <a name = "getting_started"></a>
 
